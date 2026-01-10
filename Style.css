@@ -1,0 +1,27 @@
+body {
+    margin:0 auto;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-family: arial;
+    
+}
+
+p {
+    position:relative ;
+    top:110px;
+}
+
+h1 {
+    position:relative ;
+    top:210px;
+}
+
+button {
+    position:relative ;
+    top:200px;
+    font-size:30px;
+    border-radius:10px;
+}
+
+
